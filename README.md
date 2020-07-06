@@ -5,7 +5,7 @@ x---------------------------- GuideLines ---------------------------x
 
 -For the code to work you need to create a File in following format:
  
- Folder:
+(Click on the raw bottom on top right to see the folder heirarchy)
  
  cats_and_dogs_small
       |
